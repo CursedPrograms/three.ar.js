@@ -1,6 +1,6 @@
 # three.ar.js
 
-[![Build Status](http://img.shields.io/travis/google-ar/three.ar.js.svg?style=flat-square)](https://travis-ci.org/google-ar/three.ar.js)
+[![Build Status](http://img.shields.io/travis/CursedPrograms/three.ar.js.svg?style=flat-square)](https://travis-ci.org/CursedPrograms/three.ar.js)
 [![Build Status](http://img.shields.io/npm/v/three.ar.js.svg?style=flat-square)](https://www.npmjs.org/package/three.ar.js)
 [![Build Status](http://img.shields.io/npm/dt/three.ar.js.svg?style=flat-square)](https://www.npmjs.org/package/three.ar.js)
 [![Build Status](http://img.shields.io/npm/l/three.ar.js.svg?style=flat-square)](https://www.npmjs.org/package/three.ar.js)
